@@ -31,7 +31,7 @@ L<Acme::MetaSyntactic>
 
 __DATA__
 # default
-:zodiac
+zodiac
 # names zodiac
 snake horse goat monkey rooster dog pig rat ox tiger rabbit dragon
 # names element
