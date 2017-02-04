@@ -1,7 +1,7 @@
 0.002   2017-02-04 (PERLANCAR)
 
-	- [Bugfix] Fix typo in default category which caused returning
-	  empty items.
+	- [Bugfix] Fix typo in default category which caused metaname() to
+	  return empty items.
 
 	- [dist] Add dzil plugin DZP:Acme::MetaSyntactic.
 
